@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 
 let page: any;
 let browser: any;
-const searchBox = ".gLFyf.gsfi";
+const searchBox: string = ".gLFyf.gsfi";
 
 describe("google search", () => {
   beforeAll(async () => {
