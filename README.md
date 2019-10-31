@@ -1,2 +1,2 @@
-# puppeteer-es6modules-typescript-tsnode-jasmine
+# puppeteer (ES6 modules, TypeScript, ts-node, jasmine)
 Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, TypeScript and jasmine.
