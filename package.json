@@ -7,7 +7,15 @@
     "lint": "tslint -c tslint.json './spec/*.ts'",
     "pretty": "prettier --no-config './spec/*.ts' --write"
   },
-  "keywords": [],
+  "keywords": [
+    "puppeteer",
+    "es6 modules",
+    "typescript",
+    "tsnode",
+    "jasmine",
+    "boilerplate",
+    "example"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
