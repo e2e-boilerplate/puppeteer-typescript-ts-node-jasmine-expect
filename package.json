@@ -20,7 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "3.5.0",
-    "@types/node": "12.12.20",
+    "@types/node": "12.12.21",
     "@types/puppeteer": "2.0.0",
     "husky": "3.1.0",
     "jasmine": "3.5.0",
