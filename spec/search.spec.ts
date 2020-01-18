@@ -4,6 +4,7 @@ import puppeteer from "puppeteer";
 let page: any;
 let browser: any;
 const searchBox: string = ".gLFyf.gsfi";
+let originalTimeout: number;
 
 describe("google search", () => {
   beforeAll(async () => {
@@ -23,6 +24,15 @@ describe("google search", () => {
     if (!page.isClosed()) {
       browser.close();
     }
+  });
+
+  beforeEach(() => {
+    originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
+  });
+
+  afterEach(() => {
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
   });
 
   it("should be on google search page", async () => {
