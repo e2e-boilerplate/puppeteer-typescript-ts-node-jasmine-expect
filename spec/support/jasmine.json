@@ -3,6 +3,5 @@
   "spec_files": ["**/*[sS]pec.ts"],
   "helpers": ["helpers/**/*.js"],
   "stopSpecOnExpectationFailure": false,
-  "random": false,
-  "defaultTimeoutInterval": 100000
+  "random": false
 }

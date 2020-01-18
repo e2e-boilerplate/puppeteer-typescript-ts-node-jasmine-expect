@@ -12,16 +12,11 @@ describe("google search", () => {
       : await puppeteer.launch({ headless: false });
     page = await browser.newPage();
 
-    await Promise.race([
-      page
-        .goto("https://www.google.com", { waitUntil: "networkidle0" })
-        .catch(() => {
-          throw new Error("Error");
-        }),
-      page.waitFor("body", { timeout: 6000 }).catch(() => {
+    await page
+      .goto("https://www.google.com", { waitUntil: "networkidle0" })
+      .catch(() => {
         throw new Error("Error");
-      })
-    ]);
+      });
   });
 
   afterAll(() => {
