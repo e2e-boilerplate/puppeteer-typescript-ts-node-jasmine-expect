@@ -4,5 +4,5 @@
   "helpers": ["helpers/**/*.js"],
   "stopSpecOnExpectationFailure": false,
   "random": false,
-  "timeoutInterval": 100000
+  "defaultTimeoutInterval": 100000
 }
