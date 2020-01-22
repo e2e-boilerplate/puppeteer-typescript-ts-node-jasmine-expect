@@ -12,6 +12,7 @@ describe("Sandbox", () => {
 
     await page
       .goto("https://xgirma.github.io/sandbox/", { waitUntil: "networkidle0" })
+      // tslint:disable-next-line:no-empty
       .catch(() => {});
   });
 
