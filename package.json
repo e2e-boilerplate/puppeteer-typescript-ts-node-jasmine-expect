@@ -24,7 +24,6 @@
     "@types/node": "12.12.25",
     "@types/puppeteer": "2.0.0",
     "husky": "3.1.0",
-    "is-ci": "2.0.0",
     "jasmine": "3.5.0",
     "lint-staged": "10.0.1",
     "prettier": "1.19.1",
