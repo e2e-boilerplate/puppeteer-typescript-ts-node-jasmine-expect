@@ -1,5 +1,5 @@
 # puppeteer (ES6 modules, TypeScript, ts-node, jasmine)
-[![GitHub Actions status | e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine](https://github.com/e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine/workflows/Node%20CI/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine/actions?workflow=Node%20CI)
+[![GitHub Actions status | e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine](https://github.com/e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine/workflows/puppeteer-es6modules-typescript-tsnode-jasmine/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-es6modules-typescript-tsnode-jasmine/actions?workflow=puppeteer-es6modules-typescript-tsnode-jasmine)
 
 Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, TypeScript and jasmine.
 
