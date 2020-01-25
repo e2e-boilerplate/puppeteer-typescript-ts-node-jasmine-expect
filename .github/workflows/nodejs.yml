@@ -13,12 +13,12 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - name: npm install, build, and test
+    - name: INSTALL
       run: |
         npm ci
       env:
         CI: true
-    - name: lint and test
+    - name: LINT, TEST
       run: |
         npm run lint
         npm run test
