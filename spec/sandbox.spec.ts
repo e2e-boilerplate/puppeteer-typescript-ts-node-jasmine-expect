@@ -16,7 +16,7 @@ describe("Sandbox", () => {
       })
       // tslint:disable-next-line:no-empty
       .catch(() => {});
-  });
+  }, 20000);
 
   afterAll(() => {
     if (!page.isClosed()) {
