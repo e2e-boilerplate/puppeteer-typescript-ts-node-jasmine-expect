@@ -1,4 +1,4 @@
-name: puppeteer-es6-modules-typescript-ts-node-jasmine-expect
+name: puppeteer-typescript-ts-node-jasmine-expect
 
 on: 
   push:
