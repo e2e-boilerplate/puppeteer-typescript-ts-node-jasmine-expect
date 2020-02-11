@@ -1,4 +1,4 @@
-name: puppeteer-es6modules-typescript-tsnode-jasmine
+name: puppeteer-es6-modules-typescript-tsnode-jasmine-expect
 
 on: 
   push:
@@ -21,7 +21,9 @@ jobs:
         npm ci
       env:
         CI: true
-    - name: LINT, TEST
+    - name: LINT
       run: |
         npm run lint
+    - name: TEST
+      run: |
         npm run test
