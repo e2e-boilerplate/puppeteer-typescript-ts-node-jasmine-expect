@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-es6modules-typescript-tsnode-jasmine",
+  "name": "puppeteer-typescript-ts-node-jasmine-expect",
   "version": "1.0.0",
   "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, TypeScript and jasmine.",
   "scripts": {
