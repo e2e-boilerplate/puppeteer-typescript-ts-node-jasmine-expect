@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-typescript-ts-node-jasmine-expect",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, TypeScript and jasmine.",
+  "description": "Puppeteer end-to-end test automation boilerplate, using ES6 modules, TypeScript, Jasmine and Expect.",
   "scripts": {
     "pretty": "prettier --no-config './spec/*.ts' --write",
     "lint": "tslint -c tslint.json './spec/*.ts'",
