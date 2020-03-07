@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "Puppeteer end-to-end test automation boilerplate, using ES6 modules, TypeScript, Jasmine and Expect.",
   "devDependencies": {
     "@types/is-ci": "2.0.0",
@@ -22,12 +22,7 @@
     }
   },
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jasmine",
     "puppeteer",
     "ts-node",
