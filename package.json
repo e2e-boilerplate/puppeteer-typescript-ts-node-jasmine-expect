@@ -1,9 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/issues"
   },
-  "description": "Puppeteer end-to-end test automation boilerplate. Using Using TypeScript, ts-node, Jasmine and Expect.",
+  "description": "Puppeteer end-to-end test automation boilerplate. using TypeScript, ts-node, Jasmine and Expect.",
   "devDependencies": {
     "@types/is-ci": "2.0.0",
     "@types/jasmine": "3.5.8",
@@ -26,12 +26,7 @@
     }
   },
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jasmine",
     "puppeteer",
     "ts-node",
