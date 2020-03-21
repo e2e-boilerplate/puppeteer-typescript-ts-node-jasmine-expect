@@ -54,5 +54,6 @@
     "pretty": "prettier --no-config './spec/*.ts' --write",
     "test": "npx jasmine"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {}
 }
