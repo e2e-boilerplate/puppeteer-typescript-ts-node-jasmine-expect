@@ -1,0 +1,12 @@
+| referrer                                                                                                   | count | uniques |
+| :--------------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/network/alert/package-lock.json/minimist/open | 8     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect                                               | 3     | 3       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/blob/master/spec/sandbox.spec.ts              | 3     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/tree/master/spec                              | 2     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/actions                                       | 2     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/actions/runs/61142590                         | 2     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/runs/526427562                                | 2     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/blob/master/package.json                      | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/blob/master/tsconfig.json                     | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/edit/master/spec/sandbox.spec.ts              | 1     | 1       |
