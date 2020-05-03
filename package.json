@@ -6,7 +6,7 @@
   "dependencies": {
     "jasmine": "3.5.0",
     "puppeteer": "3.0.2",
-    "ts-node": "8.10.0",
+    "ts-node": "8.10.1",
     "typescript": "3.8.3"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using TypeScript, ts-node, Jasmine and Expect.",
