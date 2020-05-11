@@ -2,7 +2,7 @@
     
 # Puppeteer Boilerplate
     
-Puppeteer end-to-end test automation boilerplate, Using TypeScript, ts-node, Jasmine and Expect.
+Puppeteer end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/TypeStrong/ts-node), [Jasmine](https://jasmine.github.io) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect.git
