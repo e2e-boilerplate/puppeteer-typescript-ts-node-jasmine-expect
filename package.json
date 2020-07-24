@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect/issues"
   },
   "dependencies": {
-    "jasmine": "3.5.0",
+    "jasmine": "3.6.0",
     "puppeteer": "5.2.1",
     "ts-node": "8.10.2",
     "typescript": "3.9.7"
