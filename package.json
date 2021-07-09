@@ -11,7 +11,7 @@
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using TypeScript, ts-node, Jasmine and Expect.",
   "devDependencies": {
-    "@types/jasmine": "3.8.0",
+    "@types/jasmine": "3.8.1",
     "@types/node": "13.13.52",
     "@types/puppeteer": "3.0.6",
     "husky": "6.0.0",
